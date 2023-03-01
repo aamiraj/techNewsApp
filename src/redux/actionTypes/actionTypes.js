@@ -1,0 +1,7 @@
+export const ADD_TO_HISTORY = "ADD_TO_HISTORY"
+export const SORT_BY = "SORT_BY"
+export const FILTER_BY_TAG = "FILTER_BY_TAG"
+export const LOAD_NEWS = "LOAD_NEWS"
+export const ADD_NEWS = "ADD_NEWS"
+export const DELETE_NEWS = "DELETE_NEWS"
+export const UPDATE_NEWS = "UPDATE_NEWS"
